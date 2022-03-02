@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Edi Mulyadi Rosdiman",
+    "occupation": "(Frontend Developer)",
+    "description": "Senior Web & apps Developer specializing in frontend development, Experienced with all stages of the development. Well-versed in numerous programming languages including HTML, PHP, Javascript,dart,",
+    "image": "edi.jpg",
+    "bio": "39 years old founder startup,esispedia edu tech,lamesia health tech,PT.Hejo IT INDONESI ceo jasadesignweb.net, Stige IT Solution.",
+    "contactmessage": "",
+    "email": "mredi367@gmail.com",
+    "phone": "+6285295019309",
+    "address": {
+      "street": "(bumi anggrek residence 1 blok b no 4)",
+      "city": "(Garut)",
+      "state": "(west java)",
+      "zip": "(44151)"
+    },
+    "website": "http://mre367.com",
+    "resumedownload": "http://mre367.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/edimulyadi",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/edi-mulyadi-rosdiman-87baa819a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/edimulyadi82",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/edimulyadi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "React Js,React native Vue Js,Next JS, Flutter Dart,Boostrap,Laravel,Figma,Adobe XD",
+    "education": [
+      {
+        "school": "Stimik Amik Bandung",
+        "degree": "bachelor of information technology/2 semester",
+        "graduated": "2002",
+        "description": "."
+      },
+      {
+        "school": "Build with angga",
+        "degree": "Frontend Developer",
+        "graduated": "9/10/2021",
+        "description": "Fullstack laravel-flutter ecomerce,Fullstack javascript developer,React JS"
+      }
+    ],
+    "work": [
+      {
+        "company": "PT.Hejoteknologiindonesia ",
+        "title": " junior programmer",
+        "years": "March 2017 - 2018",
+        "description": "Develop project concepts and maintain optimal workflow.hanaang apps : aplikasi CRM perusahaan minuman Flutter,Medklik apps (healt tech) pencarian tenaga medis di sekitar anda react native ,JS,umkmbersatu (woocomerce)"
+      },
+      {
+        "company": "Stige IT Solution",
+        "title": "Senior Frontend developer",
+        "years": "March 2007 - February 2010",
+        "description": "Ittihad tour and travel webs and apss fluttte.Lamesia (healt tech),smart klinik system (Flutter,dart,.bosstrap).Esisbi (edutech system)Sekolah Bunyan Indonesia.(Flutrer,Js,Boostrap).Spokat (e.commerce.app) Laravel and Flutter ecomerce sepatu grade ori ."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Flutter",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "hanaang apss",
+        "category": "CRM apps",
+        "image": "hanaang.jpg",
+        "url": "https://hanaang.online"
+      },
+      {
+        "title": "ESISBI",
+        "category": "Esystem Information Bunyan Indonesia",
+        "image": "esisbi.png",
+        "url": "http://www.esisbi.com"
+      },
+      {
+        "title": "Lamesia",
+        "category": "health tech",
+        "image": "lemesia.jpg",
+        "url": "http://lamesia.com"
+      }
+    
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Kang Edi seorang developer yang terus mau belajar dan hamble",
+        "user": "ust.Uus MauLudin "
+      }
+    ]
+  }
+}
